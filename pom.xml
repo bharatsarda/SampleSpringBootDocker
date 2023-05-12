@@ -49,7 +49,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>github-actions</finalName>
+		<finalName>SpringBootDemoDocker</finalName>
 	</build>
 
 </project>
