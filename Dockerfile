@@ -1,3 +1,3 @@
 FROM openjdk:17
-ADD target/SpringBootDemoDocker.jar SpringBootDemoDocker.jar
-ENTRYPOINT ["java", "-jar", "/SpringBootDemoDocker.jar"]
+ADD target/springboot-demo-docker.jar springboot-demo-docker.jar
+ENTRYPOINT ["java", "-jar", "/springboot-demo-docker.jar"]
